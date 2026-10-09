@@ -1,0 +1,50 @@
+Dragon Slayer Prototype Playtesting License
+Copyright (c) 2026 danfavano. All rights reserved.
+
+These terms apply to the Dragon Slayer prototype game and original game
+content distributed by danfavano through the dragon-slayer-playtest repository.
+They do not replace the licenses of third-party components.
+
+PERMITTED USE
+
+You may download, install, and play the prototype free of charge for personal,
+noncommercial playtesting. You may keep backup copies for that use.
+
+You may create and publish gameplay videos, livestreams, screenshots, and
+reviews, including monetized coverage. This permission does not permit
+distribution of the game executable, supporting game files, or extracted
+assets. Coverage must not imply endorsement by the copyright holder.
+
+RESTRICTIONS AND RESERVED RIGHTS
+
+Except where applicable law or a third-party license permits otherwise, you
+may not sell, sublicense, redistribute, rehost, or commercially exploit the
+prototype or its original assets. Share links to the official release instead.
+
+No permission to distribute modified versions, reuse original game assets
+in another product, or use the game's branding as your own is granted.
+This is not an open-source license. All rights not expressly granted are
+reserved. The copyright holder may develop and sell future versions of the
+game under separate terms.
+
+THIRD-PARTY COMPONENTS
+
+Third-party components retain their own copyrights and licenses. Their
+license permissions are not limited by the restrictions above. See the
+included third-party notices and any component-specific license files.
+
+PROTOTYPE STATUS
+
+This is unfinished experimental software. No promise is made of updates,
+support, continued availability, compatibility, or a future commercial release.
+This license grants no ownership interest in the game.
+
+DISCLAIMER
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE PROTOTYPE IS PROVIDED "AS IS",
+WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR DAMAGES ARISING FROM USE OF OR INABILITY TO USE THE PROTOTYPE.
+NOTHING IN THESE TERMS EXCLUDES RIGHTS OR LIABILITY THAT CANNOT LAWFULLY
+BE EXCLUDED.
